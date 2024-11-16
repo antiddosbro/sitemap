@@ -2,7 +2,9 @@
 
 function feedback404()
 {
-require("I SHOW SPEED");
+    header("HTTP/1.0 MAXCLUB PUNYA CERITA");
+    echo "<h1><strong>MAXCLUB PUNYA CERITA</strong></h1>";
+    echo " I SHOW SPEED";
 }
 
 
